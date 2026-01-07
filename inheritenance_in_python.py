@@ -23,3 +23,7 @@ list2 = SumList([5,1,3,8,4])
  
 list_sum = list1.sum_with(list2)
 print(list_sum)
+
+
+#rating: 4.5/5, Utkarsh was able to explain the inheritenace concept in 
+# python with a code example that he developed during the interview
