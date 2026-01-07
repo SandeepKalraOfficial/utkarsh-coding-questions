@@ -5,3 +5,5 @@ for key in set(dict_1)|set(dict_2):
     sum_dict[key] = dict_1.get(key,0)+dict_2.get(key, 0)
  
 print(sum_dict)
+
+#rating: 4.5/5, Utkarsh completed the assignment and the expected output was generated.
